@@ -35,6 +35,7 @@ namespace ExeExce
 
             try
             {
+                //account.balance para pegar apenas o BALANCE
                 account.Withdraw(withdraw);
                 Console.WriteLine("New balance: " + account.Balance.ToString("F2", CultureInfo.InvariantCulture));
             }
