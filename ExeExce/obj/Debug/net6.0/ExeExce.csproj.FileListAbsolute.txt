@@ -1,0 +1,15 @@
+D:\PROJETOS CS\ExeExce\ExeExce\bin\Debug\net6.0\ExeExce.exe
+D:\PROJETOS CS\ExeExce\ExeExce\bin\Debug\net6.0\ExeExce.deps.json
+D:\PROJETOS CS\ExeExce\ExeExce\bin\Debug\net6.0\ExeExce.runtimeconfig.json
+D:\PROJETOS CS\ExeExce\ExeExce\bin\Debug\net6.0\ExeExce.dll
+D:\PROJETOS CS\ExeExce\ExeExce\bin\Debug\net6.0\ExeExce.pdb
+D:\PROJETOS CS\ExeExce\ExeExce\obj\Debug\net6.0\ExeExce.csproj.AssemblyReference.cache
+D:\PROJETOS CS\ExeExce\ExeExce\obj\Debug\net6.0\ExeExce.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS CS\ExeExce\ExeExce\obj\Debug\net6.0\ExeExce.AssemblyInfoInputs.cache
+D:\PROJETOS CS\ExeExce\ExeExce\obj\Debug\net6.0\ExeExce.AssemblyInfo.cs
+D:\PROJETOS CS\ExeExce\ExeExce\obj\Debug\net6.0\ExeExce.csproj.CoreCompileInputs.cache
+D:\PROJETOS CS\ExeExce\ExeExce\obj\Debug\net6.0\ExeExce.dll
+D:\PROJETOS CS\ExeExce\ExeExce\obj\Debug\net6.0\refint\ExeExce.dll
+D:\PROJETOS CS\ExeExce\ExeExce\obj\Debug\net6.0\ExeExce.pdb
+D:\PROJETOS CS\ExeExce\ExeExce\obj\Debug\net6.0\ExeExce.genruntimeconfig.cache
+D:\PROJETOS CS\ExeExce\ExeExce\obj\Debug\net6.0\ref\ExeExce.dll
